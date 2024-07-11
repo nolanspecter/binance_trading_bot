@@ -1,0 +1,2 @@
+PUB_KEY = 'UjUWnlsRXrfnOXys0bIQ2rpUFZwJjS8gpJIWqDzKOoABubLVw4GRXu526hoxzfX2'
+SEC_KEY = 'RjCwjxo456yzMZ9qICce0wseFMkasWGWsFnyivZeCYgtpi7arpRP6iel7xOHNOve'
